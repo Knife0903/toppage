@@ -160,3 +160,7 @@ footer {
     color: #bbc0c4;
     padding-top: 30px;
 }
+
+.tel {
+    display: none;
+}
