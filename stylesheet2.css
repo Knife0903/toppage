@@ -152,7 +152,7 @@ footer {
     color: #bbc0c4;
     padding-top: 30px;
 }
-
+/*hamburger-menu*/
 .menu-btn {
     position: fixed;
     top: 3px;
@@ -241,7 +241,7 @@ footer {
 .menu-content ul li a {
     display: block;
     width: 100%;
-    font-size: 1px;
+    font-size: 18px;
     box-sizing: border-box;
     color:#ffffff;
     text-decoration: none;
