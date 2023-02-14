@@ -54,20 +54,6 @@
         margin-top: 450px;
     }
 
-    .us img {
-        width:20%;
-        margin-left: 11%;
-        margin-right: 3%;
-    }
-    
-    .us-message {
-        width:95%;
-        font-size: 17px;
-    }
-    
-    .us-more {
-        margin-left: 65%;
-    }
 }
 
 @media(max-width:599px) {
@@ -78,7 +64,7 @@
     .logo {
         height:35px;
         margin-top: 10px;
-        margin-left: 150px;
+        margin-left: 32%;
     }
     
     .header-menu {
