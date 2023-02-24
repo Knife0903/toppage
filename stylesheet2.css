@@ -49,7 +49,6 @@ header {
     float: left;
     transition: all 0.5s;
     text-align: center;
-    font-family: serif;
     font-weight: bolder;
     font-family: KaiTi;
 }
@@ -248,4 +247,8 @@ footer {
 
 .br {
     display:none;
+}
+
+table {
+    margin: 0 auto;
 }
